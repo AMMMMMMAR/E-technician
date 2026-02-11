@@ -137,11 +137,6 @@ These diagrams are included in the project presentation.
 
 This project was developed as part of a **Software Engineering university course** and focuses on **analysis, design, and architecture**, not production deployment.
 
----
-
-## 📌 Authors
-
-Group 26 – Software Engineering Students
 
 ---
 
